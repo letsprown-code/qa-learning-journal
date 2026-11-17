@@ -27,6 +27,8 @@ qa-learning-journal/
 
 Algumas pastas só aparecem no GitHub quando recebem o primeiro arquivo.
 
+**Regra de confidencialidade:** aqui só entram conteúdos de cursos e testes de prática. Nunca publico nomes de clientes, projetos reais nem dados de ciclos de teste pagos, como exigem os Termos de Uso das plataformas.
+
 ## Progresso
 
 | Plataforma | Curso | Módulo | Situação |
@@ -36,7 +38,9 @@ Algumas pastas só aparecem no GitHub quando recebem o primeiro arquivo.
 | Test IO | Exploratory Testing | 2. How to find bugs?: [nota](cursos-courses/test-io/exploratory-testing/02-how-to-find-bugs.md) | Concluído (sem quiz) |
 | Test IO | Exploratory Testing | 3. Bug Report Attachments: [nota](cursos-courses/test-io/exploratory-testing/03-bug-report-attachments.md) e [quiz comentado](cursos-courses/test-io/exploratory-testing/03-bug-report-attachments-quiz.md) | Concluído (quiz 6 de 6, tarefa prática aprovada) |
 | Test IO | Exploratory Testing | 4. Bug Reports: [nota e tarefas comentadas](cursos-courses/test-io/exploratory-testing/04-bug-reports.md) | Tarefas aprovadas pela IA, em revisão final |
-| uTest | uTest Academy | Curso obrigatório | A fazer |
+| uTest | uTest Academy: Getting Started | 1. Introduction to uTest: [nota e quiz comentado](cursos-courses/utest/getting-started/01-introduction-to-utest.md) | Concluído (quiz 3 de 3) |
+| uTest | uTest Academy: Getting Started | 2. uTest.com Navigation: [nota e quiz comentado](cursos-courses/utest/getting-started/02-utest-navigation.md) | Concluído (quiz 10 de 10, na 2ª tentativa) |
+| uTest | uTest Academy: Getting Started | 3. uTest Basics: [nota e quiz comentado](cursos-courses/utest/getting-started/03-utest-basics.md) | Concluído (quiz 13 de 13) |
 
 ## Acessibilidade
 
@@ -69,6 +73,10 @@ I write down, in my own words, what I learn in each course, organized by the pla
 | [`glossario-glossary.md`](glossario-glossary.md) | QA terms in Portuguese and English |
 | `templates/` | Bug report templates |
 | `exemplos-examples/` | Bugs I found while practicing |
+
+**Confidentiality rule:** only course content and practice tests go here. I never publish real client or project names, or data from paid test cycles, as the platforms' Terms of Use require.
+
+**Progress:** see the table in the Portuguese section above. Each course note is bilingual (PT/EN).
 
 **Rule for new courses:** `cursos-courses/<platform>/<course>/<number>-<module>.md`, lowercase with hyphens. Every note starts with a table naming the platform, course, module, status and original source.
 
