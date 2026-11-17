@@ -34,8 +34,8 @@ Algumas pastas só aparecem no GitHub quando recebem o primeiro arquivo.
 | Test IO | Onboarding | Idiomas e dispositivos no perfil | Concluído |
 | Test IO | Exploratory Testing | 1. Bug Types: [nota](cursos-courses/test-io/exploratory-testing/01-bug-types.md) e [quiz comentado](cursos-courses/test-io/exploratory-testing/01-bug-types-quiz.md) | Concluído (9 de 9 no quiz) |
 | Test IO | Exploratory Testing | 2. How to find bugs?: [nota](cursos-courses/test-io/exploratory-testing/02-how-to-find-bugs.md) | Concluído (sem quiz) |
-| Test IO | Exploratory Testing | 3. Bug Report Attachments: [nota](cursos-courses/test-io/exploratory-testing/03-bug-report-attachments.md) e [quiz comentado](cursos-courses/test-io/exploratory-testing/03-bug-report-attachments-quiz.md) | Quiz: 6 de 6. Tarefa prática: em análise |
-| Test IO | Exploratory Testing | 4. Bug Reports | A fazer |
+| Test IO | Exploratory Testing | 3. Bug Report Attachments: [nota](cursos-courses/test-io/exploratory-testing/03-bug-report-attachments.md) e [quiz comentado](cursos-courses/test-io/exploratory-testing/03-bug-report-attachments-quiz.md) | Concluído (quiz 6 de 6, tarefa prática aprovada) |
+| Test IO | Exploratory Testing | 4. Bug Reports: [nota e tarefas comentadas](cursos-courses/test-io/exploratory-testing/04-bug-reports.md) | Tarefas aprovadas pela IA, em revisão final |
 | uTest | uTest Academy | Curso obrigatório | A fazer |
 
 ## Acessibilidade
