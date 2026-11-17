@@ -19,7 +19,9 @@ qa-learning-journal/
 │   │       └── 01-bug-types-quiz.md   Quiz comentado do módulo
 │   └── utest/                 uTest Academy
 │       ├── getting-started/
-│       └── testing-in-the-utest-platform/
+│       ├── testing-in-the-utest-platform/
+│       ├── testing-tools/
+│       └── academy-certification/
 ├── plataformas-platforms/     Como funciona cada plataforma de testes
 ├── glossario-glossary.md      Termos de QA em português e inglês
 ├── templates/                 Modelos de relatório de bug
@@ -51,6 +53,12 @@ Algumas pastas só aparecem no GitHub quando recebem o primeiro arquivo.
 | uTest | uTest Academy: Testing in the uTest Platform | 5. uTest Mobile App: [nota e quiz comentado](cursos-courses/utest/testing-in-the-utest-platform/05-utest-mobile-app.md) | Concluído (quiz 5 de 5) |
 | uTest | uTest Academy: Testing in the uTest Platform | 6. AcademyBugs.com: [nota e quiz comentado](cursos-courses/utest/testing-in-the-utest-platform/06-academybugs.md) | Concluído (quiz 9 de 9, 2ª tentativa; 20 de 25 bugs encontrados) |
 | uTest | uTest Academy: Testing in the uTest Platform | 7. Academy Tips and Tricks: [nota e quiz comentado](cursos-courses/utest/testing-in-the-utest-platform/07-academy-tips-and-tricks.md) | Concluído (sem quiz) |
+| uTest | uTest Academy: Testing Tools | 1. Screenshots: [nota e quiz comentado](cursos-courses/utest/testing-tools/01-screenshots.md) | Concluído (quiz 5 de 5) |
+| uTest | uTest Academy: Testing Tools | 2. Screen Recordings: [nota e quiz comentado](cursos-courses/utest/testing-tools/02-screen-recordings.md) | Concluído (quiz 5 de 5) |
+| uTest | uTest Academy: Testing Tools | 3. Browser Logs: [nota e quiz comentado](cursos-courses/utest/testing-tools/03-browser-logs.md) | Concluído (quiz 6 de 6) |
+| uTest | uTest Academy: Testing Tools | 4. Mobile Device Logs: [nota e quiz comentado](cursos-courses/utest/testing-tools/04-mobile-device-logs.md) | Concluído (quiz 6 de 6) |
+| uTest | uTest Academy: Testing Tools | 5. Web Debugging Proxy: [nota e quiz comentado](cursos-courses/utest/testing-tools/05-web-debugging-proxy.md) | Concluído (quiz 10 de 10) |
+| uTest | uTest Academy: Academy Certification Program | 1. Introduction to Testing: [nota e quiz comentado](cursos-courses/utest/academy-certification/01-introduction-to-testing.md) | Quiz 10 de 10; ciclo de prática enviado, aguardando aprovação |
 | Crowdtest | Certificação de Testador | 1. E-book "Top Testador": [nota](cursos-courses/crowdtest/certificacao-testador/01-ebook-top-testador.md) e [quiz comentado](cursos-courses/crowdtest/certificacao-testador/01-ebook-top-testador-quiz.md) · [como funciona a plataforma](plataformas-platforms/crowdtest.md) | Prova aprovada (18 de 20) |
 
 ## Acessibilidade
