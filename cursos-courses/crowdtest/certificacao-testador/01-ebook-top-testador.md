@@ -7,7 +7,8 @@
 | Plataforma · Platform | Crowdtest (Base2, Belo Horizonte) |
 | Curso · Course | Certificação de Testador Crowdtest · Crowdtest Tester Certification |
 | Módulo · Module | 1 de 1 · E-book "Tudo que você precisa saber para ser um testador Crowdtest" |
-| Situação · Status | Estudando para a prova (20 questões, mínimo de 70%) · Studying for the exam (20 questions, 70% to pass) |
+| Situação · Status | Prova feita: aprovada com 18 de 20 (90%) · Exam passed: 18/20 (90%) |
+| Quiz comentado · Annotated quiz | [01-ebook-top-testador-quiz.md](01-ebook-top-testador-quiz.md) |
 | Fonte original · Original source | [E-book Top Testador, Crowdtest](https://testadores.crowdtest.me/assets/assets/files/ebook_crowdtest_top_testador_v6.pdf) |
 
 Estas são as minhas anotações, escritas com as minhas palavras. · These are my own notes.
@@ -78,6 +79,8 @@ O **Crowdtest** é a plataforma de testes colaborativos (crowdtesting) da **Base
 ## 5. Como registrar um bug no teste exploratório
 
 - **Antes de começar:** ler a lista de **funcionalidades permitidas**. Bug fora dela é reprovado.
+- **Gravar a tela do início ao fim, com no mínimo 45 minutos** (regra do e-book de dez/2025).
+- Média de pagamento: **R$ 60 por projeto** exploratório, e cada bug é pago separado.
 - Gravar a tela, explorar e, ao achar um problema, clicar em **"Nova Ocorrência"**.
 
 | Campo | Obrigatório? |
