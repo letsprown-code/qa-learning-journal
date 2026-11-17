@@ -51,7 +51,7 @@ Algumas pastas só aparecem no GitHub quando recebem o primeiro arquivo.
 | uTest | uTest Academy: Testing in the uTest Platform | 5. uTest Mobile App: [nota e quiz comentado](cursos-courses/utest/testing-in-the-utest-platform/05-utest-mobile-app.md) | Concluído (quiz 5 de 5) |
 | uTest | uTest Academy: Testing in the uTest Platform | 6. AcademyBugs.com: [nota e quiz comentado](cursos-courses/utest/testing-in-the-utest-platform/06-academybugs.md) | Concluído (quiz 9 de 9, 2ª tentativa; 20 de 25 bugs encontrados) |
 | uTest | uTest Academy: Testing in the uTest Platform | 7. Academy Tips and Tricks: [nota e quiz comentado](cursos-courses/utest/testing-in-the-utest-platform/07-academy-tips-and-tricks.md) | Concluído (sem quiz) |
-| Crowdtest | Certificação de Testador | 1. E-book "Top Testador": [nota](cursos-courses/crowdtest/certificacao-testador/01-ebook-top-testador.md) · [como funciona a plataforma](plataformas-platforms/crowdtest.md) | Estudando para a prova |
+| Crowdtest | Certificação de Testador | 1. E-book "Top Testador": [nota](cursos-courses/crowdtest/certificacao-testador/01-ebook-top-testador.md) e [quiz comentado](cursos-courses/crowdtest/certificacao-testador/01-ebook-top-testador-quiz.md) · [como funciona a plataforma](plataformas-platforms/crowdtest.md) | Prova aprovada (18 de 20) |
 
 ## Acessibilidade
 
