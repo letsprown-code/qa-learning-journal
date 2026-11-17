@@ -21,6 +21,8 @@ qa-learning-journal/
 │       ├── getting-started/
 │       ├── testing-in-the-utest-platform/
 │       ├── testing-tools/
+│       ├── data-security-in-testing/
+│       ├── functional-testing/
 │       └── academy-certification/
 ├── plataformas-platforms/     Como funciona cada plataforma de testes
 ├── glossario-glossary.md      Termos de QA em português e inglês
@@ -58,6 +60,8 @@ Algumas pastas só aparecem no GitHub quando recebem o primeiro arquivo.
 | uTest | uTest Academy: Testing Tools | 3. Browser Logs: [nota e quiz comentado](cursos-courses/utest/testing-tools/03-browser-logs.md) | Concluído (quiz 6 de 6) |
 | uTest | uTest Academy: Testing Tools | 4. Mobile Device Logs: [nota e quiz comentado](cursos-courses/utest/testing-tools/04-mobile-device-logs.md) | Concluído (quiz 6 de 6) |
 | uTest | uTest Academy: Testing Tools | 5. Web Debugging Proxy: [nota e quiz comentado](cursos-courses/utest/testing-tools/05-web-debugging-proxy.md) | Concluído (quiz 10 de 10) |
+| uTest | uTest Academy: Data Security In Testing | 1. Personally Identifiable Information (PII): [nota e quiz comentado](cursos-courses/utest/data-security-in-testing/01-pii.md) | Concluído (quiz 10 de 10) |
+| uTest | uTest Academy: Functional Testing | 1. Functional Testing: [nota e quiz comentado](cursos-courses/utest/functional-testing/01-functional-testing.md) | Concluído (quiz 10 de 10) |
 | uTest | uTest Academy: Academy Certification Program | 1. Introduction to Testing: [nota e quiz comentado](cursos-courses/utest/academy-certification/01-introduction-to-testing.md) | Quiz 10 de 10; ciclo de prática enviado, aguardando aprovação |
 | Crowdtest | Certificação de Testador | 1. E-book "Top Testador": [nota](cursos-courses/crowdtest/certificacao-testador/01-ebook-top-testador.md) e [quiz comentado](cursos-courses/crowdtest/certificacao-testador/01-ebook-top-testador-quiz.md) · [como funciona a plataforma](plataformas-platforms/crowdtest.md) | Prova aprovada (18 de 20) |
 
