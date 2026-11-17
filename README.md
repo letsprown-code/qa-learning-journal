@@ -41,6 +41,7 @@ Algumas pastas só aparecem no GitHub quando recebem o primeiro arquivo.
 | uTest | uTest Academy: Getting Started | 1. Introduction to uTest: [nota e quiz comentado](cursos-courses/utest/getting-started/01-introduction-to-utest.md) | Concluído (quiz 3 de 3) |
 | uTest | uTest Academy: Getting Started | 2. uTest.com Navigation: [nota e quiz comentado](cursos-courses/utest/getting-started/02-utest-navigation.md) | Concluído (quiz 10 de 10, na 2ª tentativa) |
 | uTest | uTest Academy: Getting Started | 3. uTest Basics: [nota e quiz comentado](cursos-courses/utest/getting-started/03-utest-basics.md) | Concluído (quiz 13 de 13) |
+| Crowdtest | Certificação de Testador | 1. E-book "Top Testador": [nota](cursos-courses/crowdtest/certificacao-testador/01-ebook-top-testador.md) · [como funciona a plataforma](plataformas-platforms/crowdtest.md) | Estudando para a prova |
 
 ## Acessibilidade
 
