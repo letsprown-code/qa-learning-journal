@@ -7,7 +7,7 @@
 | Plataforma · Platform | Test IO |
 | Curso · Course | Exploratory Testing Course |
 | Módulo · Module | 4 de 4 · Bug Reports |
-| Situação · Status | 2 tarefas aprovadas pela IA, em revisão final · 2 tasks approved by the AI, final review pending |
+| Situação · Status | ✅ Concluído: 2 tarefas aprovadas e curso Exploratory Testing 4 de 4 (conferido em 17/11/2026) · Completed: 2 tasks approved, Exploratory Testing course 4 of 4 |
 | Fonte original · Original source | [Bug Report Requirements, Test IO Academy](https://academy.test.io/en/articles/2541949-bug-report-requirements) |
 
 Estas são as minhas anotações, escritas com as minhas palavras. · These are my own notes.
