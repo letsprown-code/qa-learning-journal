@@ -44,7 +44,7 @@ Algumas pastas só aparecem no GitHub quando recebem o primeiro arquivo.
 | Test IO | Exploratory Testing | 1. Bug Types: [nota](cursos-courses/test-io/exploratory-testing/01-bug-types.md) e [quiz comentado](cursos-courses/test-io/exploratory-testing/01-bug-types-quiz.md) | Concluído (9 de 9 no quiz) |
 | Test IO | Exploratory Testing | 2. How to find bugs?: [nota](cursos-courses/test-io/exploratory-testing/02-how-to-find-bugs.md) | Concluído (sem quiz) |
 | Test IO | Exploratory Testing | 3. Bug Report Attachments: [nota](cursos-courses/test-io/exploratory-testing/03-bug-report-attachments.md) e [quiz comentado](cursos-courses/test-io/exploratory-testing/03-bug-report-attachments-quiz.md) | Concluído (quiz 6 de 6, tarefa prática aprovada) |
-| Test IO | Exploratory Testing | 4. Bug Reports: [nota e tarefas comentadas](cursos-courses/test-io/exploratory-testing/04-bug-reports.md) | Tarefas aprovadas pela IA, em revisão final |
+| Test IO | Exploratory Testing | 4. Bug Reports: [nota e tarefas comentadas](cursos-courses/test-io/exploratory-testing/04-bug-reports.md) | Concluído (2 tarefas aprovadas; curso Exploratory Testing 4 de 4) |
 | uTest | uTest Academy: Getting Started | 1. Introduction to uTest: [nota e quiz comentado](cursos-courses/utest/getting-started/01-introduction-to-utest.md) | Concluído (quiz 3 de 3) |
 | uTest | uTest Academy: Getting Started | 2. uTest.com Navigation: [nota e quiz comentado](cursos-courses/utest/getting-started/02-utest-navigation.md) | Concluído (quiz 10 de 10, na 2ª tentativa) |
 | uTest | uTest Academy: Getting Started | 3. uTest Basics: [nota e quiz comentado](cursos-courses/utest/getting-started/03-utest-basics.md) | Concluído (quiz 13 de 13) |
