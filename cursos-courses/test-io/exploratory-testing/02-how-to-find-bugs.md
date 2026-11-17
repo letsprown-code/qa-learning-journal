@@ -7,7 +7,7 @@
 | Plataforma · Platform | Test IO |
 | Curso · Course | Exploratory Testing Course |
 | Módulo · Module | 2 de 4 · How to find bugs? |
-| Situação · Status | Em andamento · In progress |
+| Situação · Status | Concluído · Completed |
 | Material · Materials | Vídeo do curso (cerca de 3 minutos) e o artigo [Test Process, Test IO Academy](https://academy.test.io/en/articles/2541890-test-process) |
 | Avaliação · Assessment | Não tem quiz · No quiz |
 
