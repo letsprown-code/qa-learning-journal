@@ -13,10 +13,13 @@ As notas são resumos próprios. Os materiais originais pertencem a cada platafo
 ```
 qa-learning-journal/
 ├── cursos-courses/            Cursos, separados por plataforma
-│   └── test-io/               Plataforma onde o curso foi feito
-│       └── exploratory-testing/   Um curso
-│           ├── 01-bug-types.md        Nota de estudo do módulo
-│           └── 01-bug-types-quiz.md   Quiz comentado do módulo
+│   ├── test-io/               Plataforma onde o curso foi feito
+│   │   └── exploratory-testing/   Um curso
+│   │       ├── 01-bug-types.md        Nota de estudo do módulo
+│   │       └── 01-bug-types-quiz.md   Quiz comentado do módulo
+│   └── utest/                 uTest Academy
+│       ├── getting-started/
+│       └── testing-in-the-utest-platform/
 ├── plataformas-platforms/     Como funciona cada plataforma de testes
 ├── glossario-glossary.md      Termos de QA em português e inglês
 ├── templates/                 Modelos de relatório de bug
@@ -41,6 +44,13 @@ Algumas pastas só aparecem no GitHub quando recebem o primeiro arquivo.
 | uTest | uTest Academy: Getting Started | 1. Introduction to uTest: [nota e quiz comentado](cursos-courses/utest/getting-started/01-introduction-to-utest.md) | Concluído (quiz 3 de 3) |
 | uTest | uTest Academy: Getting Started | 2. uTest.com Navigation: [nota e quiz comentado](cursos-courses/utest/getting-started/02-utest-navigation.md) | Concluído (quiz 10 de 10, na 2ª tentativa) |
 | uTest | uTest Academy: Getting Started | 3. uTest Basics: [nota e quiz comentado](cursos-courses/utest/getting-started/03-utest-basics.md) | Concluído (quiz 13 de 13) |
+| uTest | uTest Academy: Testing in the uTest Platform | 1. Testing Basics: [nota e quiz comentado](cursos-courses/utest/testing-in-the-utest-platform/01-testing-basics.md) | Concluído (quiz 5 de 5) |
+| uTest | uTest Academy: Testing in the uTest Platform | 2. uTest Cycle Process: [nota e quiz comentado](cursos-courses/utest/testing-in-the-utest-platform/02-utest-cycle-process.md) | Concluído (quiz 10 de 10) |
+| uTest | uTest Academy: Testing in the uTest Platform | 3. Slots, Test Cases and Reviews: [nota e quiz comentado](cursos-courses/utest/testing-in-the-utest-platform/03-slots-test-cases-reviews.md) | Concluído (quiz 10 de 10) |
+| uTest | uTest Academy: Testing in the uTest Platform | 4. Issue Reports: [nota e quiz comentado](cursos-courses/utest/testing-in-the-utest-platform/04-issue-reports.md) | Concluído (quiz 10 de 10) |
+| uTest | uTest Academy: Testing in the uTest Platform | 5. uTest Mobile App: [nota e quiz comentado](cursos-courses/utest/testing-in-the-utest-platform/05-utest-mobile-app.md) | Concluído (quiz 5 de 5) |
+| uTest | uTest Academy: Testing in the uTest Platform | 6. AcademyBugs.com: [nota e quiz comentado](cursos-courses/utest/testing-in-the-utest-platform/06-academybugs.md) | Concluído (quiz 9 de 9, 2ª tentativa; 20 de 25 bugs encontrados) |
+| uTest | uTest Academy: Testing in the uTest Platform | 7. Academy Tips and Tricks: [nota e quiz comentado](cursos-courses/utest/testing-in-the-utest-platform/07-academy-tips-and-tricks.md) | Concluído (sem quiz) |
 | Crowdtest | Certificação de Testador | 1. E-book "Top Testador": [nota](cursos-courses/crowdtest/certificacao-testador/01-ebook-top-testador.md) · [como funciona a plataforma](plataformas-platforms/crowdtest.md) | Estudando para a prova |
 
 ## Acessibilidade
