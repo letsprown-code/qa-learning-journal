@@ -15,7 +15,8 @@ qa-learning-journal/
 ├── cursos-courses/            Cursos, separados por plataforma
 │   └── test-io/               Plataforma onde o curso foi feito
 │       └── exploratory-testing/   Um curso
-│           └── 01-bug-types.md    Uma nota por módulo
+│           ├── 01-bug-types.md        Nota de estudo do módulo
+│           └── 01-bug-types-quiz.md   Quiz comentado do módulo
 ├── plataformas-platforms/     Como funciona cada plataforma de testes
 ├── glossario-glossary.md      Termos de QA em português e inglês
 ├── templates/                 Modelos de relatório de bug
@@ -31,7 +32,7 @@ Algumas pastas só aparecem no GitHub quando recebem o primeiro arquivo.
 | Plataforma | Curso | Módulo | Situação |
 | --- | --- | --- | --- |
 | Test IO | Onboarding | Idiomas e dispositivos no perfil | Concluído |
-| Test IO | Exploratory Testing | [1. Bug Types](cursos-courses/test-io/exploratory-testing/01-bug-types.md) | Em andamento |
+| Test IO | Exploratory Testing | 1. Bug Types: [nota](cursos-courses/test-io/exploratory-testing/01-bug-types.md) e [quiz comentado](cursos-courses/test-io/exploratory-testing/01-bug-types-quiz.md) | Concluído (9 de 9 no quiz) |
 | Test IO | Exploratory Testing | 2. How to find bugs? | A fazer |
 | Test IO | Exploratory Testing | 3. Bug Report Attachments | A fazer |
 | Test IO | Exploratory Testing | 4. Bug Reports | A fazer |
