@@ -46,6 +46,12 @@ Algumas pastas só aparecem no GitHub quando recebem o primeiro arquivo.
 | Test IO | Exploratory Testing | 3. Bug Report Attachments: [nota](cursos-courses/test-io/exploratory-testing/03-bug-report-attachments.md) e [quiz comentado](cursos-courses/test-io/exploratory-testing/03-bug-report-attachments-quiz.md) | Concluído (quiz 6 de 6, tarefa prática aprovada) |
 | Test IO | Exploratory Testing | 4. Bug Reports: [nota e tarefas comentadas](cursos-courses/test-io/exploratory-testing/04-bug-reports.md) | Concluído (2 tarefas aprovadas; curso Exploratory Testing 4 de 4) |
 | Test IO | Onboarding User Story Course | User Stories: [nota e quiz comentado](cursos-courses/test-io/user-story/01-user-story-course.md) | Concluído (quiz 6 de 6) |
+| Test IO | Cursos opcionais | Reproduction Course: [nota e quiz comentado](cursos-courses/test-io/optional-courses/01-reproduction-course.md) | Concluído (quiz 6 de 6) |
+| Test IO | Cursos opcionais | Cybersecurity Course: [nota e quiz comentado](cursos-courses/test-io/optional-courses/02-cybersecurity-course.md) | Concluído (quiz 10 de 10) |
+| Test IO | Cursos opcionais | Bug Fix & Bug Report Confirmation Course: [nota e quiz comentado](cursos-courses/test-io/optional-courses/03-bug-fix-and-bug-report-confirmation.md) | Concluído (quiz 8 de 8) |
+| Test IO | Cursos opcionais | How to Test Purchase Functionalities: [nota e quiz comentado](cursos-courses/test-io/optional-courses/04-how-to-test-purchase-functionalities.md) | Concluído (quiz 5 de 5) |
+| Test IO | Cursos opcionais | Project Testing Onboarding: [nota e quiz comentado](cursos-courses/test-io/optional-courses/05-project-testing-onboarding.md) | Concluído (quiz 6 de 6) |
+| Test IO | Cursos opcionais | Streaming Testing Course: [nota e quiz comentado](cursos-courses/test-io/optional-courses/06-streaming-testing-course.md) | Concluído (quiz 12 de 12) |
 | uTest | uTest Academy: Getting Started | 1. Introduction to uTest: [nota e quiz comentado](cursos-courses/utest/getting-started/01-introduction-to-utest.md) | Concluído (quiz 3 de 3) |
 | uTest | uTest Academy: Getting Started | 2. uTest.com Navigation: [nota e quiz comentado](cursos-courses/utest/getting-started/02-utest-navigation.md) | Concluído (quiz 10 de 10, na 2ª tentativa) |
 | uTest | uTest Academy: Getting Started | 3. uTest Basics: [nota e quiz comentado](cursos-courses/utest/getting-started/03-utest-basics.md) | Concluído (quiz 13 de 13) |
