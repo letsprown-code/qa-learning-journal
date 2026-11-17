@@ -7,7 +7,8 @@
 | Plataforma · Platform | Test IO |
 | Curso · Course | Exploratory Testing Course |
 | Módulo · Module | 1 de 4 · Bug Types |
-| Situação · Status | Em andamento · In progress |
+| Situação · Status | Concluído, 9 de 9 no quiz · Completed, 9/9 on the quiz |
+| Quiz comentado · Annotated quiz | [01-bug-types-quiz.md](01-bug-types-quiz.md) |
 | Fonte original · Original source | [Bug Types - Summary, Test IO Academy](https://academy.test.io/en/articles/4325756-bug-types-summary) |
 
 Estas são as minhas anotações, escritas com as minhas palavras. · These are my own notes.
