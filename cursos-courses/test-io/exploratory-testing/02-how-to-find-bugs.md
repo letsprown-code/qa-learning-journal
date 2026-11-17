@@ -48,23 +48,46 @@ Para sair de um teste: os 3 pontinhos ao lado do teste no menu lateral, opção 
 
 > **Para mim, na prática:** como eu uso o Claude para me ajudar com o inglês, **não posso colar textos dos testes** (instruções do cliente, telas, dados) para traduzir. Posso usar ajuda para escrever os **meus** relatórios a partir das minhas próprias anotações, sem dados do cliente. Na dúvida, perguntar ao líder do time.
 
-## Do vídeo: 5 técnicas para encontrar bugs
+## Do vídeo: como encontrar bugs de verdade
 
-Vídeo: [5 Proven Bug Finding Techniques: Exploratory Testing Mastery, canal Test IO Community no YouTube](https://www.youtube.com/watch?v=FXb68zt4xls).
+Vídeo: [5 Proven Bug Finding Techniques: Exploratory Testing Mastery, canal Test IO Community no YouTube](https://www.youtube.com/watch?v=FXb68zt4xls), cerca de 3 minutos. Resumo feito a partir da transcrição do vídeo.
 
-| Técnica | O que fazer na prática |
-| --- | --- |
-| 1. Preparar o teste | Antes de explorar, deixar o ambiente pronto: ler o escopo, abrir o site ou instalar o app, iniciar a sessão de teste. |
-| 2. Testar o caminho certo e o caminho errado | **Teste positivo:** usar do jeito esperado, com dados válidos. **Teste negativo:** usar dados inválidos e casos extremos para ver se o sistema se defende. |
-| 3. Provocar os campos de entrada | Exemplo do vídeo: campo de e-mail. Testar caracteres especiais, formatos errados e campos vazios para ver se a validação funciona. |
-| 4. Ir onde os bugs graves se escondem | Login, recuperação de senha e funções que dependem de dados costumam concentrar bugs de gravidade alta. |
-| 5. Conferir a navegação e comparar navegadores | Procurar links quebrados (erro 404), principalmente no rodapé e nos menus. Repetir o mesmo passo em navegadores diferentes, como Chrome e Firefox, e comparar. |
+### 1. Antes de começar
 
-O vídeo termina com um roteiro que se repete: preparar, explorar, encontrar e relatar.
+Revisar a configuração do teste:
 
-Outros exemplos de bug citados: texto do formulário se sobrepondo ao texto de exemplo do campo (visual), tela carregando sem fim (funcional) e app fechando ao aplicar um filtro de preço (funcional).
+- o que a função **deveria fazer**;
+- a **lista de bugs já conhecidos** (known bugs), para não enviar repetido;
+- o que está **fora do escopo** (por exemplo, finalizar pedidos ou usar meios de pagamento).
 
-*Observação: este resumo foi feito a partir da descrição e dos capítulos do vídeo. Depois de assistir, acrescento o que eu achar importante.*
+### 2. Caminho positivo e caminho negativo
+
+| Tipo de teste | O que é | Exemplo do vídeo |
+| --- | --- | --- |
+| **Positivo** (caminho feliz) | Usar do jeito certo, com dados válidos | Criar conta com um e-mail válido. Funcionou. |
+| **Negativo leve** | Errar como um usuário comum erraria | Digitar sem querer um caractere especial no e-mail (como #). O sistema aceitou sem mostrar erro. **Bug encontrado.** |
+
+Regra: no teste negativo, tentar **erros razoáveis**, que um usuário típico cometeria. Não vale inventar situações absurdas.
+
+Dica extra: às vezes basta começar a preencher os campos. No vídeo, o texto de exemplo do campo (placeholder) ficou por cima do e-mail digitado: um **bug visual**.
+
+### 3. Onde os bugs gostam de se esconder
+
+| Onde procurar | Exemplo do vídeo | Tipo e gravidade (pelo módulo 1) |
+| --- | --- | --- |
+| **Envio de dados** | Pedir aviso por e-mail quando o produto voltar ao estoque: a tela ficou carregando sem fim. | Funcional, gravidade alta (o vídeo chama de bug de alta gravidade) |
+| **Login e senha** | Pedir para redefinir a senha e tentar entrar antes de abrir o e-mail: o sistema travou e nenhuma senha funcionava. | Funcional |
+| **Navegação** | Link de termos e condições no **rodapé** da página de perguntas frequentes levava a erro 404. | Funcional baixo (link quebrado no rodapé) |
+
+### 4. Técnicas práticas
+
+- **Testar em navegadores diferentes:** o que funciona no Chrome pode quebrar no Firefox ou no Safari.
+- **Clicar em tudo que é clicável:** no vídeo, aplicar o filtro de preço abriu uma página em branco com erro de banco de dados. Era um caminho normal de usuário e virou um **bug crítico**.
+- **Prestar atenção no comportamento estranho:** ao dar play numa playlist, a página subiu sozinha.
+
+### A mensagem principal
+
+Não ficar só no caminho feliz. Os bugs mais graves aparecem nos caminhos inesperados, **mas sempre pensando em como um usuário típico se comporta**.
 
 ---
 
@@ -78,6 +101,6 @@ Outros exemplos de bug citados: texto do formulário se sobrepondo ao texto de e
 
 **Levels:** Copper (level 1) testers can join only **2 cycles at a time**; Bronze and above can join as many as they can handle.
 
-**Video (5 techniques):** prepare the test setup; test positive and negative paths; probe input fields (e.g., email validation with special characters); focus on high-risk areas such as login and password reset; check navigation for dead links and compare browsers.
+**Video:** before testing, review what the feature should do, the known bugs list and what is out of scope. Test the positive path first, then light negative tests with mistakes a typical user would make (e.g., a special character in an email). Look where bugs hide: data submissions (endless loading), authentication (password reset), navigation (404 links in the footer). Test across browsers and click everything clickable. Go beyond the happy path, but keep typical user behavior in mind.
 
 **Rules:** no browser translation add-ons on platform content; customer data is confidential and must not be sent to third-party tools; when in doubt, ask the Team Leader in the cycle chat.
