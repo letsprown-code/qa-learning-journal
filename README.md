@@ -33,8 +33,8 @@ Algumas pastas só aparecem no GitHub quando recebem o primeiro arquivo.
 | --- | --- | --- | --- |
 | Test IO | Onboarding | Idiomas e dispositivos no perfil | Concluído |
 | Test IO | Exploratory Testing | 1. Bug Types: [nota](cursos-courses/test-io/exploratory-testing/01-bug-types.md) e [quiz comentado](cursos-courses/test-io/exploratory-testing/01-bug-types-quiz.md) | Concluído (9 de 9 no quiz) |
-| Test IO | Exploratory Testing | 2. How to find bugs?: [nota](cursos-courses/test-io/exploratory-testing/02-how-to-find-bugs.md) | Em andamento (sem quiz) |
-| Test IO | Exploratory Testing | 3. Bug Report Attachments | A fazer |
+| Test IO | Exploratory Testing | 2. How to find bugs?: [nota](cursos-courses/test-io/exploratory-testing/02-how-to-find-bugs.md) | Concluído (sem quiz) |
+| Test IO | Exploratory Testing | 3. Bug Report Attachments: [nota](cursos-courses/test-io/exploratory-testing/03-bug-report-attachments.md) e [quiz comentado](cursos-courses/test-io/exploratory-testing/03-bug-report-attachments-quiz.md) | Quiz: 6 de 6. Tarefa prática: em análise |
 | Test IO | Exploratory Testing | 4. Bug Reports | A fazer |
 | uTest | uTest Academy | Curso obrigatório | A fazer |
 
