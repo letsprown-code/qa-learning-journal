@@ -48,11 +48,23 @@ Para sair de um teste: os 3 pontinhos ao lado do teste no menu lateral, opção 
 
 > **Para mim, na prática:** como eu uso o Claude para me ajudar com o inglês, **não posso colar textos dos testes** (instruções do cliente, telas, dados) para traduzir. Posso usar ajuda para escrever os **meus** relatórios a partir das minhas próprias anotações, sem dados do cliente. Na dúvida, perguntar ao líder do time.
 
-## Do vídeo
+## Do vídeo: 5 técnicas para encontrar bugs
 
-O vídeo do módulo mostra a abordagem sistemática do teste exploratório. *Espaço para as minhas observações depois de assistir:*
+Vídeo: [5 Proven Bug Finding Techniques: Exploratory Testing Mastery, canal Test IO Community no YouTube](https://www.youtube.com/watch?v=FXb68zt4xls).
 
-- 
+| Técnica | O que fazer na prática |
+| --- | --- |
+| 1. Preparar o teste | Antes de explorar, deixar o ambiente pronto: ler o escopo, abrir o site ou instalar o app, iniciar a sessão de teste. |
+| 2. Testar o caminho certo e o caminho errado | **Teste positivo:** usar do jeito esperado, com dados válidos. **Teste negativo:** usar dados inválidos e casos extremos para ver se o sistema se defende. |
+| 3. Provocar os campos de entrada | Exemplo do vídeo: campo de e-mail. Testar caracteres especiais, formatos errados e campos vazios para ver se a validação funciona. |
+| 4. Ir onde os bugs graves se escondem | Login, recuperação de senha e funções que dependem de dados costumam concentrar bugs de gravidade alta. |
+| 5. Conferir a navegação e comparar navegadores | Procurar links quebrados (erro 404), principalmente no rodapé e nos menus. Repetir o mesmo passo em navegadores diferentes, como Chrome e Firefox, e comparar. |
+
+O vídeo termina com um roteiro que se repete: preparar, explorar, encontrar e relatar.
+
+Outros exemplos de bug citados: texto do formulário se sobrepondo ao texto de exemplo do campo (visual), tela carregando sem fim (funcional) e app fechando ao aplicar um filtro de preço (funcional).
+
+*Observação: este resumo foi feito a partir da descrição e dos capítulos do vídeo. Depois de assistir, acrescento o que eu achar importante.*
 
 ---
 
@@ -65,5 +77,7 @@ O vídeo do módulo mostra a abordagem sistemática do teste exploratório. *Esp
 **Test flow:** invitation (based on profile, devices and performance) → read all instructions before accepting → read the scope → choose the device carefully (until Bronze level, it is the only device I can use for the whole cycle) → the test environment appears only after the test starts → start a **Test Session** to enable "Submit Bug" → report in-scope bugs → the **Team Leader** reviews, may ask questions, approves or rejects; approved bugs go to the customer for the final decision → keep checking bug status and email, even after the cycle ends → if I disagree, comment on the report and, if needed, open a **dispute**.
 
 **Levels:** Copper (level 1) testers can join only **2 cycles at a time**; Bronze and above can join as many as they can handle.
+
+**Video (5 techniques):** prepare the test setup; test positive and negative paths; probe input fields (e.g., email validation with special characters); focus on high-risk areas such as login and password reset; check navigation for dead links and compare browsers.
 
 **Rules:** no browser translation add-ons on platform content; customer data is confidential and must not be sent to third-party tools; when in doubt, ask the Team Leader in the cycle chat.
