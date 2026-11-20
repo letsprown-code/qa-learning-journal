@@ -58,6 +58,7 @@ Algumas pastas só aparecem no GitHub quando recebem o primeiro arquivo.
 | Test IO | Educação | Dispute Course: [nota e exemplos comentados](cursos-courses/test-io/education/04-dispute-course.md) | Aprovado (Dispute Certified Tester) |
 | Test IO | Educação | Human Experience (HX) Testing Course: [nota e quiz comentado](cursos-courses/test-io/education/05-human-experience-testing-course.md) | Aprovado (100%) |
 | Test IO | Educação | Flashcards (ações, features e bugs de IA): [resumo](cursos-courses/test-io/education/06-flashcards.md) | Concluídos |
+| Test IO | Educação | Localization Testing: [nota e quiz comentado](cursos-courses/test-io/education/07-localization-testing-quiz.md) | Concluído (nota 4,61 de 5) |
 | uTest | uTest Academy: Getting Started | 1. Introduction to uTest: [nota e quiz comentado](cursos-courses/utest/getting-started/01-introduction-to-utest.md) | Concluído (quiz 3 de 3) |
 | uTest | uTest Academy: Getting Started | 2. uTest.com Navigation: [nota e quiz comentado](cursos-courses/utest/getting-started/02-utest-navigation.md) | Concluído (quiz 10 de 10, na 2ª tentativa) |
 | uTest | uTest Academy: Getting Started | 3. uTest Basics: [nota e quiz comentado](cursos-courses/utest/getting-started/03-utest-basics.md) | Concluído (quiz 13 de 13) |
